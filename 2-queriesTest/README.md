@@ -1,7 +1,7 @@
 # sparta-queries
 
 ## ERD
-<img src="/erd.png">
+<img src="./erd.png">
 
 ## Proposed Queries
 
